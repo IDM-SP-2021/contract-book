@@ -5,20 +5,20 @@
 - Fork this repo to your account
 - Clone repo to your machine via GitHub deskop or command line
 
-```shell
-    cd target/direcotry
-    git clone https://github.com/account/repo.git
-    // you can find this URL by clicking the green 'code' button on the homepage of your repo
+```bash
+cd target/direcotry
+git clone https://github.com/account/repo.git
+// you can find this URL by clicking the green 'code' button on the homepage of your repo
 ```
 
 - Install Docsify CLI (note: requires NodeJS to be installed)
 
-```shell
-    npm i docsify-cli -g
+```bash
+npm i docsify-cli -g
 ```
 
 - To launch the site for local dev run
 
-```shell
-    docsify serve docs
+```bash
+docsify serve docs
 ```
