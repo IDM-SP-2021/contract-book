@@ -14,4 +14,3 @@ Contract book for unnamed IDM Senior Project project
 
 - Project Adivsor: Phil Sinatra
 - DIGM Cohort Advisor: Rob Lloyd
-
