@@ -17,6 +17,22 @@ We wanted to confirm our target audience and what exactly they were looking for 
 
 ## User Personas
 
+After reviewing the survey results, we used what was found to create user personas.
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FH1x8uEzPZo9c4mPEOa1el5%2FUser-Personas%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
+These user personas are to better visualize our target audiences and are extremely useful as refrence throughout the project.  With users given bios, app experience and values, each of the three personas act as a summarized look into different age groups.
+
 ## User Interviews
+
+During the COVID-19 pandemic, in-person interviews have become extremely hard to do.  Our team used Zoom for interviews and had open discussions about what users want to see from the project.  Also, being able to show users what we have been working on helps guage what direction we should go into.
+
+## Style Guide
+
+### Components
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FbNfAjLyjJKVK3XzPfxF3Lm%2FTemp-Doc-Style-Guide%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+### Branding
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FbNfAjLyjJKVK3XzPfxF3Lm%2FTemp-Doc-Style-Guide%3Fnode-id%3D99%253A269" allowfullscreen></iframe>

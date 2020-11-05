@@ -4,7 +4,7 @@
 
 - UX Resources
 
-  - [User Experience Research](/ux/userexperience.md)
+  - [User Experience Research](/ux/uxresearch.md)
 
 - UI Resources
 
