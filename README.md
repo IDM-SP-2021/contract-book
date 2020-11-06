@@ -62,6 +62,7 @@ For any formatting guidelines please consult the the [Docsify documentation](htt
 - Name of the PR should be as desriptive of the work as possible
 - Include a two to three sentence summary of the changes made in the comments section of the PR
 - PRs *must* request a reviewer to be submitted
+- **DOUBLE CHECK THAT YOU UPDATED `_coverpage.md` WITH THE CURRENT DATE AND VERSION**
 
 ## Reviewing
 
