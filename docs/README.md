@@ -1,10 +1,10 @@
 # What are you reading? <!-- {docsify-ignore-all} -->
 
-Contract book for unnamed IDM Senior Project project
+This is the contract book for Afiye, a Drexel University Digital Media senior project. This document outlines the policies, procedures, and key technologies being utilized over the course of this project.
 
 ## Meet the team
 
-- Arpit Aluwahlia
+- Arpit Ahluwalia
 - Fidel Boamah
 - Brianna Buissereth
 - Erik Martus
@@ -13,4 +13,4 @@ Contract book for unnamed IDM Senior Project project
 ### Advisors
 
 - Project Adivsor: Phil Sinatra
-- DIGM Cohort Advisor: Rob Lloyd
+- Digital Media Cohort Advisor: Rob Lloyd
