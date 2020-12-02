@@ -2,10 +2,10 @@
 
 ![logo](_media/coverpage_temp.gif)
 
-# IDM SP 2021 Contract Book
+# Afiye Contract Book
 
-- Last Updated October 10, 2020
-- Version 0.1
+- Last Updated November 6, 2020
+- Version 0.3
 
 [GitHub](https://github.com/IDM-SP-2021)
 [Get Started](#main)
