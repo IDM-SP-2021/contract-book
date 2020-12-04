@@ -121,4 +121,4 @@ For local development, the Neo4j Desktop application is *required*. This is avai
 
 ### Additional Information
 
-For additional information related to how to use Neo4j and usage cases for our project please see [Neo4j: Getting Started](/dev/neo4j)
+For additional information related to how to use Neo4j and usage cases for our project please see [Neo4j: Getting Started](/dev/neo4j.md)
