@@ -25,8 +25,16 @@ Unless otherwise noted, dependency is using the latest released version.
   - See D3 section below for more information.
 - [d3-force](https://www.npmjs.com/package/d3-force)
   - See D3 section below for more information.
+- [d3-zoom](https://www.npmjs.com/package/d3-zoom)
+  - See D3 section below for more information.
+- [express](https://www.npmjs.com/package/express)
+  - Required to redirect Heroku app to the correct port.
+  - *Note:* This dependency may not be required for the final verision.
 - [jquery](https://www.npmjs.com/package/jquery)
   - Required for some interaction functions.
+- [nanoid](https://www.npmjs.com/package/nanoid)
+  - Used to generate random strings for use in database queries.
+  - Will be used in production build to generate invite codes.
 - [neo4j-driver v1.7.7](https://www.npmjs.com/package/neo4j-driver/v/1.7.7)
   - Using previous release for multiple queries in one session functionality. Feature is bugged in current release.
 
@@ -42,6 +50,10 @@ Unless otherwise noted, dependency is using the latest released version.
   - Compile environmental variables with Webpack. Necessary to prevent port access issues on dev machines.
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
   - Simplifies bundling HTML files in Webpack build process.
+- [clean-webpack-plugin](https://www.npmjs.com/package/clean-webpack-plugin)
+  - Used during build process to clear existing contents of build folder.
+- [webpack-merge](https://www.npmjs.com/package/webpack-merge)
+  - Used to create separate dev and production build environments.
 - [rimraf](https://www.npmjs.com/package/rimraf)
   - Used in `npm run clean` script to remove contents of build directory.
 - [path-browserify](https://www.npmjs.com/package/path-browserify)
@@ -106,3 +118,7 @@ Neo4j can be pretty easy to pick up the basics, but it is highly recommended to 
 ### Software Requirements
 
 For local development, the Neo4j Desktop application is *required*. This is available on MacOS and Windows and can be downloaded from the [Neo4j downloads page](https://neo4j.com/download/).
+
+### Additional Information
+
+For additional information related to how to use Neo4j and usage cases for our project please see [Neo4j: Getting Started](/dev/neo4j)
