@@ -1,11 +1,11 @@
 <!-- _coverpage.md -->
 
-![logo](_media/coverpage_temp.gif)
+![logo](_media/logo.png)
 
-# Afiye Contract Book
+# afiye Contract Book
 
-- Last Updated November 6, 2020
-- Version 0.3
+- Last Updated December 4, 2020
+- Version 1.0
 
 [GitHub](https://github.com/IDM-SP-2021)
 [Get Started](#main)
