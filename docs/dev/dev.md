@@ -9,6 +9,8 @@
 
 ## Proof of Concept
 
+![afiye Proof of Concept](../_media/poc_screenshot.png)
+
 We created a very basic application that demonstrates our ability to work with our core concepts, maintaining a family tree and collecting memories.
 
 This application allows users to create a new family member and add it to the database. The form only requires that one connection be established and the application will automatically generate connections to the remaining nodes in the database. This mirrors our intended functionality in the final product.
@@ -16,7 +18,7 @@ This application allows users to create a new family member and add it to the da
 Additionally, users can create a memory. The Proof of Concept only allows for text information to be added to a memory, however the final version will allow for users to upload a variety of media formats and documents in addition to basic text content. To create a memory, give it a title, set a date that this memory happened, add some content, and then select the family members in the database that you wish to tag.
 
 [View the live version](https://idm-sp-poc.herokuapp.com/)
-*Note:* We are using the free tiers of all technologies so the version on Heroku is slow to respond depending on how quickly the database starts up. For the best experience it is recommended to clone a local instance of the repository and run the project locally.
+*Note:* We are using the free tiers of all technologies so the version on Heroku is slow to respond depending on how quickly the database starts up. For the best experience it is recommended to clone a local instance of the [repository](https://github.com/IDM-SP-2021/heroku-test) and run the project locally.
 
 ---
 
