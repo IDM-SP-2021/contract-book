@@ -12,7 +12,9 @@ In order for Neo4j to run locally you will need to setup a few things.
 4. Create a blank database
    1. Database name is just for your reference, it can be whatever you want (ex: 'Family Tree')
    2. Set whatever password you want, make sure to note it as you will need it later when setting up a development environment to inteact with the database. *Note:* For local development your password does not need to be "secure".
-5. Start playing around. There are several built in graph structures you can load up to get familar writing queries.
+5. Start playing around.
+
+?> **Tip** There are several built in graph structures you can load up to get familar writing queries.
 
 ### Helpful Cypher Queries to Help you on your Adventures
 
@@ -42,7 +44,7 @@ In order for Neo4j to run locally you will need to setup a few things.
 
 ## Setting up you Development Environment
 
-***If you are not cloning a repository make sure you are installing the recommended NPM packages when setting up a project.***
+!> **Important** If you are not cloning a repository make sure you are installing the recommended NPM packages when setting up a project.
 
 1. Your dev and live environments will have different database credentials! Make sure you properly setup a `.env` file.
    1. Recommended environmental variables:
