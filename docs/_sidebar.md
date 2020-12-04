@@ -15,3 +15,5 @@
 - Development Resources
 
   - [Development Overview](/dev/dev.md)
+  - [Neo4j: Getting Started](/dev/neo4j.md)
+  - [Proof of Concept](/dev/poc.md)
