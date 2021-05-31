@@ -2,9 +2,24 @@
 
 ## Branding
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FbNfAjLyjJKVK3XzPfxF3Lm%2FTemp-Doc-Style-Guide%3Fnode-id%3D99%253A269" allowfullscreen></iframe>
+![Typography](../_media/style-guide/type.png)
+
+![Colors](../_media/style-guide/colors.png)
 
 ## Components
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FbNfAjLyjJKVK3XzPfxF3Lm%2FTemp-Doc-Style-Guide%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+![Buttons](../_media/style-guide/buttons.png)
 
+![Text Inputs](../_media/style-guide/text-inputs.png)
+
+![Avatar](../_media/style-guide/avatars.png)
+
+![Family List](../_media/style-guide/family-list.png)
+
+![Navigation](../_media/style-guide/nav.png)
+
+![Mobile Navigation](../_media/style-guide/mobile-nav.png)
+
+## Full Style Guide
+
+[View the entire style guide on Figma](https://www.figma.com/file/bNfAjLyjJKVK3XzPfxF3Lm/Style-Guide?node-id=99%3A269)

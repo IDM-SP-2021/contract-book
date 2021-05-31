@@ -4,8 +4,8 @@
 
 # afiye Contract Book
 
-- Last Updated December 4, 2020
-- Version 1.0
+- Last Updated May 31, 2021
+- Version 1.1
 
 [GitHub](https://github.com/IDM-SP-2021)
 [Get Started](#main)

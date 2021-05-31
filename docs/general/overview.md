@@ -12,4 +12,4 @@ This social network is designed to reinforce and strengthen connections that you
 - **Family Member:** An individual person that is a member of a family network.
 - **Memory:** A container for media that can be updated continuously. Additional Family Members can be tagged an included in a memory to mark who was a part of the memory and also allow them to contribute media to the memory. Some examples could be *Alice's 5th Birthday*, *My 25th Wedding Annivery*, or *Thanksgiving 2019*
 - **Album:** A collection of memories for users to organize the memories. These can be centered around themes, time frames, or any other way a user may want to organize their memories. Some examples could be *Alice's Birthdays*, *Smith Family Christmases*, or *Kids Age 1-5*
-- **Media:** Any type of content that can be added to a memory. Including by not limited to (TBD) images, videos, audio recording, PDFs, and text.
+- **Media:** Any type of content that can be added to a memory.
