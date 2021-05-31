@@ -51,7 +51,7 @@ In order for Neo4j to run locally you will need to setup a few things.
 
     ```env
     // Neo4J DB Credentials
-    N4J_HOST=bolt://localhost:7687
+    N4J_HOST=neo4j://localhost
     N4J_USER=neo4j
     N4J_PASS=password
     ```
@@ -65,8 +65,8 @@ In order for Neo4j to run locally you will need to setup a few things.
     ```javascript
     const neo4jHost = process.env.N4J_HOST;
     const neo4jUser = process.env.N4J_USER;
-    const neo4jPass = process.env.N4J_PASS
+    const neo4jPass = process.env.N4J_PASS;
     let driver = neo4j.driver(neo4jHost, neo4j.auth.basic(neo4jUser, neo4jPass));
     ```
 
-2. This is all you need to get up and running with Neo4j. At this point it is recommended to read through the [Neo4j Javascript Driver documentation](https://neo4j.com/docs/driver-manual/1.7/). *Note:* This project is using the v1.7 driver rather than the latest v4.* driver as some features are bugged in the latest driver that are required for this project.
+2. This is all you need to get up and running with Neo4j. At this point it is recommended to read through the [Neo4j Javascript Driver documentation](https://neo4j.com/docs/driver-manual/current/) if you are encountering any issues.

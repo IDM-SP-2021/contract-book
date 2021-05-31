@@ -6,6 +6,7 @@
 
 - [View All](https://github.com/IDM-SP-2021)
 - [Proof of Concept](https://github.com/IDM-SP-2021/heroku-test)
+- [Full Application](https://github.com/IDM-SP-2021/afiye)
 
 ## Proof of Concept
 
@@ -17,71 +18,19 @@ This application allows users to create a new family member and add it to the da
 
 Additionally, users can create a memory. The Proof of Concept only allows for text information to be added to a memory, however the final version will allow for users to upload a variety of media formats and documents in addition to basic text content. To create a memory, give it a title, set a date that this memory happened, add some content, and then select the family members in the database that you wish to tag.
 
-[View the live version](https://idm-sp-poc.herokuapp.com/)
-*Note:* We are using the free tiers of all technologies so the version on Heroku is slow to respond depending on how quickly the database starts up. For the best experience it is recommended to clone a local instance of the [repository](https://github.com/IDM-SP-2021/heroku-test) and run the project locally.
+*Note:* The live version of this proof of concept is no longer active as the database host, GrapheneDB, has discontinued their relationship with the application host, Heroku. To interact with the proof of concept, please follow the installation instructions available in the repository below
+
+Clone the [repository](https://github.com/IDM-SP-2021/heroku-test) and run the project locally.
 
 ---
 
 ## NodeJS
 
-- v12.18.3
+- v14.15.0
 
 ### Usage
 
 Node is incredibly powerful and allows for numerous package plugins. Additionally, Node serves as a common middleground for all developers on the team that may not be comfortable with server side languages. Node has available packages to connect to all of our backend structures.
-
-### Dependencies
-
-Unless otherwise noted, dependency is using the latest released version.
-
-- [d3](https://www.npmjs.com/package/d3)
-  - See D3 section below for more information.
-- [d3-force](https://www.npmjs.com/package/d3-force)
-  - See D3 section below for more information.
-- [d3-zoom](https://www.npmjs.com/package/d3-zoom)
-  - See D3 section below for more information.
-- [express](https://www.npmjs.com/package/express)
-  - Required to redirect Heroku app to the correct port.
-  - *Note:* This dependency may not be required for the final verision.
-- [jquery](https://www.npmjs.com/package/jquery)
-  - Required for some interaction functions.
-- [nanoid](https://www.npmjs.com/package/nanoid)
-  - Used to generate random strings for use in database queries.
-  - Will be used in production build to generate invite codes.
-- [neo4j-driver v1.7.7](https://www.npmjs.com/package/neo4j-driver/v/1.7.7)
-  - Using previous release for multiple queries in one session functionality. Feature is bugged in current release.
-
-### Development Dependencies
-
-- [webpack v4.44.2](https://www.npmjs.com/package/webpack/v/4.44.2)
-  - Using previous version as v5 was recently released and realworld documentation and forums have not updated to use the latest updates.
-- [webpack-cli](https://www.npmjs.com/package/webpack-cli)
-  - Used to run Webpack commands on the command line. Necessary for building and running the development server.
-- [webpack-dev-server](https://www.npmjs.com/package/webpack-dev-server)
-  - Used to run a development server with live update on document save.
-- [dotenv-webpack](https://www.npmjs.com/package/dotenv-webpack)
-  - Compile environmental variables with Webpack. Necessary to prevent port access issues on dev machines.
-- [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
-  - Simplifies bundling HTML files in Webpack build process.
-- [clean-webpack-plugin](https://www.npmjs.com/package/clean-webpack-plugin)
-  - Used during build process to clear existing contents of build folder.
-- [webpack-merge](https://www.npmjs.com/package/webpack-merge)
-  - Used to create separate dev and production build environments.
-- [rimraf](https://www.npmjs.com/package/rimraf)
-  - Used in `npm run clean` script to remove contents of build directory.
-- [path-browserify](https://www.npmjs.com/package/path-browserify)
-  - Implements Node `path` module for browsers. (*Note:* This dependency may not be necessary, during Proof of Concept development there were compilation issues that needed this to resolve.)
-- [css-loader](https://www.npmjs.com/package/css-loader)
-  - Webpack loader necessary for bundling CSS files.
-- [source-map-loader](https://www.npmjs.com/package/source-map-loader)
-  - Extracts source maps so that debugging is easier. (*Note:* This loader may not be necessary, during Poof of Concept development source maps would not load correctly.)
-
-### Possible Future Dependencies
-
-- [lodash](https://www.npmjs.com/package/lodash)
-  - Useful JavaScript library to make working with arrays, numbers, objects, strings, etc. easier.
-- [postcss](https://www.npmjs.com/package/postcss)
-  - Powerful css preprocessor with multiple plugin options. Reduce our need to worry about backwards browswer compatibilty.
 
 ---
 
@@ -124,7 +73,7 @@ Neo4j can be pretty easy to pick up the basics, but it is highly recommended to 
 
 - [Neo4j Documentation](https://neo4j.com/docs/operations-manual/current/)
 - [Neo4j Developer Guides](https://neo4j.com/developer/get-started/)
-- [Neo4j Driver v1.7 Documentation](https://neo4j.com/docs/driver-manual/1.7/)
+- [Neo4j Driver Documentation](https://neo4j.com/docs/driver-manual/current/)
 - [Cypher Manual](https://neo4j.com/docs/cypher-manual/current/)
 - [Cypher Refcard](https://neo4j.com/docs/cypher-refcard/current/)
 
@@ -135,3 +84,22 @@ For local development, the Neo4j Desktop application is *required*. This is avai
 ### Additional Information
 
 For additional information related to how to use Neo4j and usage cases for our project please see [Neo4j: Getting Started](/dev/neo4j.md)
+
+---
+
+## MongoDB
+
+MongoDB is a general purpose database. It was selected for ease of use with our NodeJS environment. MongoDB is used to store user and post data for the application.
+
+MongoDB is connected to the NodeJS application through the Mongoose package.
+
+### Documentation
+
+- [MongoDB Server Documentation](https://docs.mongodb.com/manual/)
+- [Mongoose Documentaion](https://mongoosejs.com/docs/guide.html)
+
+### Software Requirements
+
+For local development, MongoDB can either be used or installed using the MongoDB Shell for a command line interface or the MongoDB Compass for a GUI interface.
+
+Either of these tools can be downloaded and installed from the [MongoDB downloads page](https://www.mongodb.com/try/download/tools).
