@@ -10,7 +10,7 @@ Our team consists of Ben Murray, Brianna Buissereth, Erik Martus, Fidel Boamah a
 
 ## Why ‘afiye’
 
-*afiye* comes from the twi word “efie”. Efie means home in twi, one of the popular dialects in Ghana, where family is paramount and so households are much larger in order to have the whole extended family in one place. This mirrors what we set out to do with our project, creating a centralized place for an entire family to share.
+*afiye* comes from the Twi word “efie”. Efie means home in Twi, one of the popular dialects in Ghana, where family is paramount and so households are much larger in order to have the whole extended family in one place. This mirrors what we set out to do with our project, creating a centralized place for an entire family to share.
 
 ## Research
 
