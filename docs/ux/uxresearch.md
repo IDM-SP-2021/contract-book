@@ -23,11 +23,11 @@ These user personas are to better visualize our target audiences and are extreme
 
 ### User Interviews Takeaways
 
--Families are obviously, extremely diverse.
--We must take into account families of 2 or 100+.
--Social Media apps can have too much noise, spam and invasive ads which makes finding specific images or things hard.
--Users are looking for a streamlined, simplified way to store and share things with only specific people, their family.
--Users would never post their children on Facebook, so the privacy of Afiye was welcoming.
+- Families are obviously, extremely diverse.
+- We must take into account families of 2 or 100+.
+- Social Media apps can have too much noise, spam and invasive ads which makes finding specific images or things hard.
+- Users are looking for a streamlined, simplified way to store and share things with only specific people, their family.
+- Users would never post their children on Facebook, so the privacy of Afiye was welcoming.
 
 ### Usability Testing Takeaways
 
@@ -37,15 +37,15 @@ These user personas are to better visualize our target audiences and are extreme
 
 ### Task Analysis Takeaways
 
--Onboarding and Feed screens were straightforward.
--The album and memory creation tasks were initially too similar and confusing for some.
--We found that if users were unsure what to do, they went to the settings area to find help.
+- Onboarding and Feed screens were straightforward.
+- The album and memory creation tasks were initially too similar and confusing for some.
+- We found that if users were unsure what to do, they went to the settings area to find help.
 
 ### Language Use in Afiye Takeaways
 
--Sometimes, the word "tree" is associated with genealogy, which was not our goal.
--The "feed" made as much sense for older users as it did for younger users.
--Some of the onboarding words we used such as "join a tree" did not make sense without an explanation.
+- Sometimes, the word "tree" is associated with genealogy, which was not our goal.
+- The "feed" made as much sense for older users as it did for younger users.
+- Some of the onboarding words we used such as "join a tree" did not make sense without an explanation.
 
 ## Journey Maps
 
