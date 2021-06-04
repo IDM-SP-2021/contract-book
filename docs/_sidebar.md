@@ -3,7 +3,7 @@
 - General Information
 
   - [Project Overview](/general/overview.md)
-  - [Promotional Material](/general/promo.md)
+  - [Promotional Materials](/general/promo.md)
   - [Press Kit](/general/press.md)
   - [Case Study](/general/case_study.md)
 
