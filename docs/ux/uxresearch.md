@@ -31,9 +31,9 @@ These user personas are to better visualize our target audiences and are extreme
 
 ### Usability Testing Takeaways
 
--Initial layout without a search option for the tree was confusing.
--Streamlining the feed and account creation was a must to ensure users were not turned away from their first interaction with Afiye.
--The bottom nav Afiye uses is common for browser versions of apps such as Twitter and Instagram.
+- Initial layout without a search option for the tree was confusing.
+- Streamlining the feed and account creation was a must to ensure users were not turned away from their first interaction with Afiye.
+- The bottom nav Afiye uses is common for browser versions of apps such as Twitter and Instagram.
 
 ### Task Analysis Takeaways
 
