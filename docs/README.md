@@ -1,6 +1,6 @@
 # What are you reading? <!-- {docsify-ignore-all} -->
 
-This is the contract book for *afiye*, a Drexel University Digital Media senior project. This document outlines the policies, procedures, and key technologies being utilized over the course of this project.
+This is the contract book for *afiye*, a Drexel University Digital Media senior project. This site outlines the policies, procedures, and key technologies being utilized over the course of this project.
 
 ## Meet the team
 

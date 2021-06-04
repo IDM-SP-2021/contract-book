@@ -2,7 +2,7 @@
 
 ## Promotional Video
 
-Follow Jess as she discovers *afiye* and how it can improve her life.
+Join Jess Monroe and the Monroe family on their journey as they are separated by distance causing them to not be able to connect as they used to. Watch Jess Monroe as she discovers *afiye* where she can save, store, and share memories with her family.
 
 [Watch on Vimeo](https://vimeo.com/557249730)
 
