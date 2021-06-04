@@ -4,31 +4,56 @@ This is the contract book for *afiye*, a Drexel University Digital Media senior 
 
 ## Meet the team
 
-- ![Arpit](_media/portrait-arpit.jpg ':size=300 :no-zoom')
-  - Arpit Ahluwalia
-  - UI & UX
-  - [Portfolio](https://arpitahluwalia.com/me)
-- ![Fidel](_media/portrait-fidel.jpg ':size=300 :no-zoom')
-  - Fidel Boamah
-  - UI, UX, & Front End Dev
-  - [Portfolio](http://fidelb.squarespace.com/)
-- ![Brianna](_media/portrait-brianna.jpg ':size=300 :no-zoom')
-  - Brianna Buissereth
-  - UI & UX
-  - [Portfolio](http://briannabuissereth.com/)
-- ![Erik](_media/portrait-erik.jpg ':size=300 :no-zoom')
-  - Erik Martus
-  - Back End Dev & Front End Dev
-  - [Portfolio](https://erikmartus.com/)
-- ![Benjamin](_media/portrait-ben.png ':size=300 :no-zoom')
-  - Benjamin Murray
-  - Project Manager
-  - UI & UX
-  - [Porfolio](https://bamurray.com/portfolio/)
-- ![Mira](_media/portrait-mira.jpg ':size=300 :no-zoom')
-  - Mira Holahan
-  - Graphic Artist
-  - [Portfolio](https://www.artstation.com/mirah_art)
+<ul class="team">
+  <li class="member-arpit">
+    <img src="_media/portrait-arpit.jpg" alt="Portrait of Arpit">
+    <div class="contents">
+      <h4>Arpit Ahluwalia</h4>
+      <p>UI & UX</p>
+      <a href="https://arpitahluwalia.com/me" target="_blank">Portfolio</a>
+    </div>
+  </li>
+  <li class="member-fidel">
+    <img src="_media/portrait-fidel.jpg" alt="Portrait of Fidel">
+    <div class="contents">
+      <h4>Fidel Boamah</h4>
+      <p>UI, UX, & Front End Dev</p>
+      <a href="http://fidelb.squarespace.com/" target="_blank">Portfolio</a>
+    </div>
+  </li>
+  <li class="member-brianna">
+    <img src="_media/portrait-brianna.jpg" alt="Portrait of Brianna">
+    <div class="contents">
+      <h4>Brianna Buissereth</h4>
+      <p>UI & UX</p>
+      <a href="http://briannabuissereth.com/" target="_blank">Portfolio</a>
+    </div>
+  </li>
+  <li class="member-erik">
+    <img src="_media/portrait-erik.jpg" alt="Portrait of Erik">
+    <div class="contents">
+      <h4>Erik Martus</h4>
+      <p>Back End Dev & Front End Dev</p>
+      <a href="https://erikmartus.com/" target="_blank">Portfolio</a>
+    </div>
+  </li>
+  <li class="member-ben">
+    <img src="_media/portrait-ben.png" alt="Portrait of Benjamin">
+    <div class="contents">
+      <h4>Benjamin Murray</h4>
+      <p>Project Manager, UI & UX</p>
+      <a href="https://bamurray.com/portfolio/" target="_blank">Portfolio</a>
+    </div>
+  </li>
+  <li class="member-mira">
+    <img src="_media/portrait-mira.jpg" alt="Portrait of Mira">
+    <div class="contents">
+      <h4>Mira Holahan</h4>
+      <p>Graphic Artist</p>
+      <a href="https://www.artstation.com/mirah_art" target="_blank">Portfolio</a>
+    </div>
+  </li>
+</ul>
 
 ### Advisors
 
